@@ -7,7 +7,7 @@ Retrieves NTLMv1 challenge-response for all available users
 .DESCRIPTION
 Downgrades to NTLMv1, impersonates all available users and retrieves a challenge-response for each.
 	
-Author: Elad Shamir (https://linkedin.com/in/eladshamir)
+Author: Elad Shamir (https://linkedin.com/in/eladshamir).
 
 .EXAMPLE
 Invoke-InternalMonologue
